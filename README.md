@@ -1,1 +1,1 @@
-Pflichtenheft: PflichtenheftINFI-1.pdf
+Pflichtenheft: infi/PflichtenheftINFI-1.pdf
